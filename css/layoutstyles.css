@@ -7,7 +7,7 @@ body{
 .common{
     /* background-color: #cccccc; */
     /* border: 2px solid white; */
-    position: absolute;
+    position: relative;
 }
 
 .header{
